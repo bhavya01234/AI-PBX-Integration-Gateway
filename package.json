@@ -1,0 +1,20 @@
+{
+  "name": "ai-pbx-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ari-client": "^2.2.0",
+    "asterisk-ami-client": "^1.1.5",
+    "express": "^5.2.1",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7",
+    "ws": "^8.19.0"
+  }
+}
